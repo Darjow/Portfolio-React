@@ -1,0 +1,9 @@
+@import '../../assets/css/shared.css';
+
+.title{
+    color: var(--secondary-color);
+}
+
+*{
+    color: var(--main-color)
+}
